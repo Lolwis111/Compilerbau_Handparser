@@ -1,0 +1,16 @@
+int test1(a, b, c)
+{
+    a = b;
+    
+    if(a == b)
+    {
+        if ( b < 12)
+        {
+            b = a + a;
+        }
+    }
+
+    a = (5 + 6);
+
+    return a;
+}
